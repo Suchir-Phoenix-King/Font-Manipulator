@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/336786.jpg);
+}
+
+.heading {
+    font-size:23px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(209, 132, 132);
+}
+.note {
+    font-size: 15px;
+    color: rgb(68, 3, 3);
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: rgba(255, 0, 0, 0.445);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 17, 17);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid rgb(224, 66, 66);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(226, 62, 62);
+}
