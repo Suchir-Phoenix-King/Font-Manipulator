@@ -17,7 +17,7 @@ function draw() {
     background("#131111");
     textSize(difference);
     fill("D21404");
-    text("Fang Rules", 50, 400);
+    text("Shape Shifter", 50, 400);
 }
 
 function modelLoaded() {
