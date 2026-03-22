@@ -1,21 +1,21 @@
 body {
-    background-image: url(https://wallpaperaccess.com/full/336786.jpg);
+    background-image: url(https://cdn.wallpapersafari.com/94/42/D4tGxs.jpg);
 }
 
 .heading {
     font-size:23px;
     width:100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px rgb(209, 132, 132);
+    box-shadow: 5px 5px 5px rgb(132, 159, 209);
 }
 .note {
     font-size: 15px;
-    color: rgb(68, 3, 3);
+    color: rgb(3, 27, 68);
 }
 
 .copy_right_footer {
     position:fixed;
-    color: rgba(255, 0, 0, 0.445);
+    color: rgba(0, 26, 255, 0.445);
     bottom: 0;
     width: 100%;
     background-color: rgb(19, 17, 17);
@@ -24,7 +24,7 @@ body {
 }
 
 canvas {
-    border: 5px solid rgb(224, 66, 66);
+    border: 5px solid rgb(66, 90, 224);
     border-radius: 20px;
-    box-shadow: 5px 5px 5px rgb(226, 62, 62);
+    box-shadow: 5px 5px 5px rgb(62, 89, 226);
 }
